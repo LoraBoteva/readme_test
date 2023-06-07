@@ -3,3 +3,5 @@ agdqwgdqwgiudgqwuigdiuwqgduiwg
 some fixes requested by Ollie
 
 This text file needs patching!
+
+We need to rotate the protocols on the server so that they wear out evenly.
